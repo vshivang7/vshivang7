@@ -46,7 +46,7 @@
 ## 🏆 Coding Profiles
 - ✅ Solved **800+ coding problems** across platforms  
 - 🔗 [LeetCode (Max Rating: 1673)](https://leetcode.com/u/vshivang07/)   
-- 🔗 [CodeForces (Pupil, Max Rating: 1320)](https://codeforces.com/profile/vshivang07)  
+- 🔗 [CodeForces (Pupil, Max Rating: 1369)](https://codeforces.com/profile/vshivang07)  
 
 ---
 
